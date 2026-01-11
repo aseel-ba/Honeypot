@@ -2,8 +2,6 @@
 
 # 🛡️ T-Pot Honeypot Platform Deployment
 
-![T-Pot Logo](https://raw.githubusercontent.com/telekom-security/tpotce/master/img/tpot.png)
-
 A comprehensive, multi-honeypot platform deployed to capture, analyze, and visualize real-time cyber attacks. This project utilizes the **T-Pot Community Edition** to create a high-interaction threat intelligence environment on a cloud-based VPS.
 
 ---
@@ -71,3 +69,6 @@ After installation, T-Pot reconfigures the default ports for security. Use the t
 | **Admin UI** | `64294` | `Cockpit Dashboard` |
 
 > **Important:** Make sure to allow these ports in your Cloud Provider's Firewall (Security Groups).
+
+
+![Uploading Screenshot 1447-07-22 at 3.31.57 PM.png…]()
