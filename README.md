@@ -69,6 +69,3 @@ After installation, T-Pot reconfigures the default ports for security. Use the t
 | **Admin UI** | `64294` | `Cockpit Dashboard` |
 
 > **Important:** Make sure to allow these ports in your Cloud Provider's Firewall (Security Groups).
-
-
-![Uploading Screenshot 1447-07-22 at 3.31.57 PM.png…]()
